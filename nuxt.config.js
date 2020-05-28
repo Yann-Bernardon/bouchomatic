@@ -55,5 +55,8 @@ export default {
     },
     router: {
         base: '/bouchomatic/'
+    },
+    generate: {
+        dir: 'docs'
     }
 };
