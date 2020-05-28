@@ -1,0 +1,16 @@
+{
+    "baseURL": "http://10.156.82.136:8380",
+    "namespace": "/tnr/v2",
+    "get": {},
+    "post": {
+        "demarches": "/demarches",
+        "mutations": "/mutations/don",
+        "acteurs": "/acteurs",
+        "argent": "/composants/argent",
+        "titres": "/composants/titres",
+        "autres": "/composants/autres"
+    },
+    "put": {},
+    "patch": {},
+    "delete": {}
+}

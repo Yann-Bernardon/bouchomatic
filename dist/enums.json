@@ -1,0 +1,20 @@
+{
+    "situations_particulieres": ["MUTILE", "HANDICAP"],
+    "lien_parente": ["PAPA", "MAMAN"],
+    "nature_titre": [
+        "ACTIONS_COTEES",
+        "ACTIONS_NON_COTEES",
+        "PARTS_DROITS_SOCIAUX",
+        "NATURE_INCONNUE"
+    ],
+    "demembrement": ["PLEINE PROPRIETE", "NUE PROPRIETE", "USUFRUIT"],
+    "type_bien": [
+        "OBJET_ART",
+        "BIJOU_METAL_PRECIEUX",
+        "CHEVAL",
+        "BATEAU",
+        "VIN_SPIRITUEUX",
+        "VOITURE_LUXE",
+        "AUTRE"
+    ]
+}

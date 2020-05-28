@@ -1,0 +1,137 @@
+{
+    "demarche": {
+        "nom_signataire": "LEPONGE Bob",
+        "dem_auteur_itip": "123456789012",
+        "auteur_mail": "ponponge@exemple.fr",
+        "nature": "DON",
+        "etat": "EN_COURS",
+        "code_structure": "330",
+        "attribue": "false"
+    },
+    "mutation": {
+        "demarche": 1,
+        "fait_generateur": "SPONTANE",
+        "argent": "false",
+        "titres": "false",
+        "autre": "false",
+        "donataire_declarant": "true"
+    },
+    "donataire": {
+        "mutation": 1,
+        "role": "donataire",
+        "situations_particulieres": [],
+        "itip": "123456789012",
+        "identifiant": "1111111111111",
+        "type_personne": "physique",
+        "nom": "LEPONGE",
+        "civilite": "M",
+        "nom_usage": "LEPONGE",
+        "prenom": "Bob",
+        "date_naissance": "1989-03-09",
+        "pays_naissance": "99100",
+        "pays_naissance_txt": "FRANCE",
+        "departement_naissance": "33",
+        "departement_naissance_txt": "Gironde",
+        "commune_naissance": "123",
+        "commune_naissance_txt": "Bordeaux",
+        "pays": "99100",
+        "departement": "56",
+        "commune": "456",
+        "commune_txt": "Vannes",
+        "numero_voie": "7",
+        "voie_code": "12345",
+        "voie_libelle": "Allée des Bigorneaux",
+        "voie_indice": "B",
+        "complement_adresse": "Chez Renée LATAUPE",
+        "adresse_codee": "5604561234500007",
+        "mail": "ponponge@exemple.fr",
+        "lien_parente": "",
+        "donateur_descendance": "",
+        "ident_origine": "SPIDATE",
+        "sensible": "false",
+        "adresse_origine": "IHM"
+    },
+    "donateur": {
+        "mutation": 1,
+        "role": "donateur",
+        "situations_particulieres": [],
+        "itip": "123456789012",
+        "identifiant": "2222222222222",
+        "type_personne": "physique",
+        "nom": "LATAUPE",
+        "civilite": "M",
+        "nom_usage": "LATAUPE",
+        "prenom": "René",
+        "date_naissance": "1949-03-09",
+        "pays_naissance": "99100",
+        "pays_naissance_txt": "FRANCE",
+        "departement_naissance": "33",
+        "departement_naissance_txt": "Gironde",
+        "commune_naissance": "123",
+        "commune_naissance_txt": "Bordeaux",
+        "pays": "99100",
+        "departement": "56",
+        "commune": "456",
+        "commune_txt": "Vannes",
+        "numero_voie": "7",
+        "voie_code": "12345",
+        "voie_libelle": "Allée des Bigorneaux",
+        "voie_indice": "B",
+        "complement_adresse": "Chez Renée LATAUPE",
+        "adresse_codee": "5604561234500007",
+        "mail": "ponponge@exemple.fr",
+        "lien_parente": "",
+        "donateur_descendance": "",
+        "ident_origine": "SPIDATE",
+        "sensible": false,
+        "adresse_origine": "IHM"
+    },
+    "donateur2Delta": {
+        "identifiant": "3333333333333",
+        "civilite": "MME",
+        "prenom": "Rosalie",
+        "date_naissance": "1952-03-09"
+    },
+    "argent": {
+        "demembrement": "PLEINE PROPRIETE",
+        "date_versement": "2020-05-24",
+        "valeur": "10000"
+    },
+    "titre": {
+        "demembrement": {
+            "pleinePropriete": {
+                "nb_titres": "1000",
+                "valeur_titre": "1500"
+            },
+            "nuePropriete": {
+                "nb_titres": "1000",
+                "valeur_titre": "1500"
+            },
+            "usufruit": {
+                "nb_titres": "1000",
+                "valeur_titre": "1500"
+            }
+        },
+        "date_versement": "2020-05-25",
+        "siren": "111111111",
+        "isin": "AA1111111111",
+        "nom": "LEPONGE International",
+        "forme": "EURL",
+        "code_activite": "AA111",
+        "adresse1": "Sous la Mer",
+        "adresse2": "Derrière un gros caillou",
+        "adresse3": "Dans le sable",
+        "immobiliere": "false",
+        "capital_social": "1000000",
+        "nature_titre": "ACTIONS_COTEES",
+        "total_titres": "1111111",
+        "valeur_total_titres": "0"
+    },
+    "autre": {
+        "demembrement": "PLEINE PROPRIETE",
+        "date_versement": "2020-05-25",
+        "type_bien": "CHEVAL",
+        "valeur": "111111",
+        "description": "Mon petit poney"
+    }
+}
